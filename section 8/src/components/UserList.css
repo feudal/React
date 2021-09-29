@@ -1,0 +1,13 @@
+.user-list {
+    list-style-type: none;
+}
+
+.user-list__item {
+    border: 1px solid darkgray;
+    padding: 3px;
+    margin-bottom: 5px;
+}
+
+.user-list__item:last-child {
+    margin-bottom: 0;
+}
